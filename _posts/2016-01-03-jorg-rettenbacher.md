@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T09:03:29.949Z'
-dateModified: '2016-01-03T09:03:19.168Z'
+datePublished: '2016-01-03T09:17:07.428Z'
+dateModified: '2016-01-03T09:17:01.049Z'
 title: Jörg Rettenbacher
 author: []
+sourcePath: _posts/2016-01-03-jorg-rettenbacher.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-jorg-rettenbacher.md
-published: true
 url: jorg-rettenbacher/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b330f09-bc09-45b3-be04-09716787bcd3.png)
