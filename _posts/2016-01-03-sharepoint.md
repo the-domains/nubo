@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T09:05:29.045Z'
-dateModified: '2016-01-03T09:05:10.791Z'
+datePublished: '2016-01-03T09:13:07.650Z'
+dateModified: '2016-01-03T09:12:59.819Z'
 title: SharePoint
 author: []
+sourcePath: _posts/2016-01-03-sharepoint.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-sharepoint.md
-published: true
-url: sharepoint/index.html
-_type: Article
+_type: Blurb
 
 ---
 SharePoint ist eine Zusammenarbeits- und Kommunikationsplattform, die es den Menschen leichter macht zusammen zu arbeiten.
