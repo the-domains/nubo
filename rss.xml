@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[NUBO GmbH - Office 365]]></title>
         <description><![CDATA[NUBO GmbH - Office 365]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nubo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 09:24:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 09:26:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nubo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New to Office 365 in December-Office Mobile for Windows 10 phone, updates for Apple and Android, Office 365 Planner preview and more - Office Blogs]]></title>
+            <description><![CDATA[<article><h1>New to Office 365 in December-Office Mobile for Windows 10 phone, updates for Apple and Android, Office 365 Planner preview and more - Office Blogs</h1><p>It may be the holidays, but we're still hard at work delivering a slate of new apps and features. New Windows 10 phones like the Lumia 950 now ship with Office Mobile. We also have updates for Office for Apple devices, Skype for Business for Android, a preview of Office 365 Planner and new management tools for IT.</p><img src="https://officeblogseast.blob.core.windows.net/wp-content/2015/12/December-update-FI.png"></article>]]></description>
+            <link>https://blogs.office.com/2015/12/17/new-to-office-365-in-december-office-mobile-for-windows-10-phone-updates-for-apple-and-android-office-365-planner-preview-and-more/</link>
+            <guid isPermaLink="false">0952d18e-2f30-45b3-851c-666ea9477e08</guid>
+            <pubDate>Sun, 03 Jan 2016 09:26:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smarter address book and flight confirmations coming to Outlook on the web - Office Blogs]]></title>
             <description><![CDATA[<article><h1>Smarter address book and flight confirmations coming to Outlook on the web - Office Blogs</h1><p>Stay Informed You send and receive a lot of emails, and it's natural to make mistakes along the way-you forget how to spell someone's name, leave someone out of a group email or forget to add a flight to your calendar.</p><img src="https://officeblogseast.blob.core.windows.net/wp-content/2015/12/Smarter-address-book-and-flight-confirmations-coming-to-Outlook-on-the-web-1a.png"></article>]]></description>
