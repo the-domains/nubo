@@ -1,6 +1,6 @@
 name: NUBO
 favicon: null
-layout_spectrum: 0.74654
+layout_spectrum: 1
 typography_spectrum: 0.7538
 title: NUBO GmbH - Office 365
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fccc83'
     - '#fcd396'
     - '#fdddae'
-  brandStrength: 0
-  lightness: 0.9568153901491314
+  brandStrength: 1
+  lightness: 0.5625
   saturation: 0.5
-  rhythmicContrast: 0.5808386229909956
+  rhythmicContrast: 0.5
 purpose: []
