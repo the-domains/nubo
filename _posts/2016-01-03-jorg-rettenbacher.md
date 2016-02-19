@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T09:17:07.428Z'
-dateModified: '2016-01-03T09:17:01.049Z'
+datePublished: '2016-02-19T03:28:12.442Z'
+dateModified: '2016-02-19T03:28:07.769Z'
 title: Jörg Rettenbacher
 author: []
 sourcePath: _posts/2016-01-03-jorg-rettenbacher.md
@@ -23,6 +23,8 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b330f09-bc09-45b3-be04-09716787bcd3.png)
+
+# Jörg Rettenbacher
 
 Seit mehr als 10 Jahren bin ich in der IT tätig und unterstütze die NUBO seit September 2014 als SharePoint Berater und Projektmanager.
 
